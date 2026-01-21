@@ -77,3 +77,4 @@ htmlcov/
 .claude/
 ./RMIT_AICROP/database
 *.md
+./.DS_Store
