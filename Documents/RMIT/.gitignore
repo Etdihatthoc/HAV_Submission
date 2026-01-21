@@ -76,3 +76,4 @@ htmlcov/
 # Claude Code
 .claude/
 ./RMIT_AICROP/database
+*.md
